@@ -1,5 +1,3 @@
-# Python 3.10–3.12 recommended for this tested setup.
-# Install CPU-only PyTorch first as shown in README.md to avoid CUDA downloads.
 torch==2.5.1
 transformers==4.48.3
 datasets==3.2.0
